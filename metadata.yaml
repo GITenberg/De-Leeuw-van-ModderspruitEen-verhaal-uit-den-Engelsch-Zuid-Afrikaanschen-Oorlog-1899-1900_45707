@@ -1,0 +1,42 @@
+_repo: De-Leeuw-van-ModderspruitEen-verhaal-uit-den-Engelsch-Zuid-Afrikaanschen-Oorlog-1899-1900_45707
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Steelink, Wilm. (Willem)
+    alias: Steelink, Willem
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '37562'
+    url: http://www.gutenberg.org/2009/agents/37562
+covers:
+- cover_type: archival
+  image_path: 45707-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Penning, L. (Louwrens)
+    aliases:
+    - Penning, Louwrens
+    - Penning, Lawrence
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '37561'
+    url: http://www.gutenberg.org/2009/agents/37561
+description: ''
+gutenberg_issued: '2014-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45707'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Afrikaners -- Fiction'
+- !lcsh 'South Africa -- History -- 1836-1909 -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PT'
+title: "De Leeuw van Modderspruit\r\nEen verhaal uit den Engelsch-Zuid-Afrikaanschen\
+  \ Oorlog 1899-1900"
+url: http://www.gutenberg.org/ebooks/45707
